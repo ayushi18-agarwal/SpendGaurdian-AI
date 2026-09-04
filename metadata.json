@@ -1,0 +1,6 @@
+{
+  "name": "Agent Spend Guardian",
+  "description": "Real-time governance firewall and risk intelligence layer for AI agent payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
